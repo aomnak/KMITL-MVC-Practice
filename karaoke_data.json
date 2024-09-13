@@ -1,0 +1,27 @@
+{
+    "songs": [
+        {
+            "song_name": "Say So",
+            "duration": 238,
+            "singers": [
+                "Doja Cat"
+            ]
+        },
+        {
+            "song_name": "Kiss Me More",
+            "duration": 209,
+            "singers": [
+                "Doja Cat",
+                " SZA"
+            ]
+        },
+        {
+            "song_name": "Die With a Smile",
+            "duration": 252,
+            "singers": [
+                "Lady Gaga",
+                " Bruno Mars"
+            ]
+        }
+    ]
+}
